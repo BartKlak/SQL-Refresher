@@ -1,0 +1,1 @@
+SELECT DATE(payment_date) FROM payment
